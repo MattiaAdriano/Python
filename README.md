@@ -1,6 +1,7 @@
 # Python
 Código Python - enviar email para vários destinatários
 
+
 import smtplib
 import email.message
 
